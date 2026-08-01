@@ -6,7 +6,7 @@ Jeu du Simon où il faut répéter la séquence dans le bon ordre afin de marque
 
 L'objectif de ce projet est d'apprendre à utiliser les différentes technologies Web afin de créer un jeu simple.
 
-*Projet universitaire*
+*Projet universitaire de cours de Web*
 
 ## Fonctionnalités
 - Son des 4 boutons
